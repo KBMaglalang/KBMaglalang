@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Kurt Maglalang</h1>
 <h1 align="center">Full-Stack Web Developer</h1>
 
-Hi there 👋, I am a motivated junior full-stack web developer formerly from the electronics hardware industry. I am passionate about learning and creating high-quality web applications from the front-end to the back-end. I enjoy creating intuitive products that are both reliable and have a beautiful interface.
+Hi there 👋, I am a motivated full-stack web developer formerly from the electronics hardware industry. I am passionate about learning and creating high-quality web applications from the front-end to the back-end. I enjoy creating intuitive products that are both reliable and have a beautiful interface.
 
 - 👀 I’m interested in ... Web Development, IOT, and Electronics
 - 🔭 I’m currently working on ... Golf E-commerce Website
