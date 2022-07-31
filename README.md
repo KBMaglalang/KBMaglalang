@@ -114,6 +114,15 @@ Hi there 👋, I am a motivated full-stack web developer formerly from the elect
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://img.icons8.com/fluency-systems-regular/48/000000/nextjs.png"
+        width="48"
+        height="48"
+        alt="NODEJS"
+      />
+      <br /><strong>NextJS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png"
         width="48"
         height="48"
