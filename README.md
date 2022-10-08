@@ -176,7 +176,37 @@ Hi there 👋, I am a motivated full-stack web developer formerly from the elect
       <br /><strong>EJS</strong>
     </td>
   </tr>
-   
+  <tr>
+    <td></td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="REACT"
+      />
+      <br /><strong>React Native</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.cdnlogo.com/logos/p/67/prisma.svg"
+        width="48"
+        height="48"
+        alt="PrismaIO"
+      />
+      <br /><strong>Prisma</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://next-auth.js.org/img/logo/logo-sm.png"
+        width="48"
+        height="48"
+        alt="NextAuth"
+      />
+      <br /><strong>NextAuth</strong>
+    </td>
+  </tr>
+
   <tr>
     <td>Databases</td>
      <!-- <td align="center" height="108" width="108">
