@@ -24,7 +24,7 @@ Hi there 👋, I am a motivated full-stack web developer formerly from the elect
 
 # Technologies and Skills
 
-<table>  
+<table>
   <tr>
     <td>Languages</td>
     <td align="center" height="108" width="108">
@@ -54,7 +54,7 @@ Hi there 👋, I am a motivated full-stack web developer formerly from the elect
       />
       <br /><strong>JavaScript</strong>
     </td>
-    <!-- <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://titrias.com/files/2022/04/typescript.png"
         width="48"
@@ -62,7 +62,7 @@ Hi there 👋, I am a motivated full-stack web developer formerly from the elect
         alt="TYPESCRIPT"
       />
       <br /><strong>TypeScript</strong>
-    </td> -->
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
@@ -100,7 +100,7 @@ Hi there 👋, I am a motivated full-stack web developer formerly from the elect
       <br /><strong>C</strong>
     </td>
   </tr>
-    
+
   <tr>
     <td>Frameworks & Libraries</td>
     <td align="center" height="108" width="108">
@@ -338,5 +338,5 @@ Hi there 👋, I am a motivated full-stack web developer formerly from the elect
       />
       <br /><strong>Visual Studio Code</strong>
     </td>
-  </tr>   
+  </tr>
 </table>
