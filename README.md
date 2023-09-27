@@ -72,7 +72,7 @@ Hi there 👋, I am a motivated full-stack web developer formerly from the elect
       />
       <br /><strong>Ruby</strong>
     </td>
-    <!-- <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
         width="48"
@@ -80,7 +80,7 @@ Hi there 👋, I am a motivated full-stack web developer formerly from the elect
         alt="PYTHON"
       />
       <br /><strong>Python</strong>
-    </td> -->
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png"
@@ -159,7 +159,7 @@ Hi there 👋, I am a motivated full-stack web developer formerly from the elect
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://i.dlpng.com/static/png/7044160_preview.png"
+        src="https://www.cdnlogo.com/logos/j/45/jquery.svg"
         width="48"
         height="48"
         alt="JQUERY"
@@ -205,11 +205,38 @@ Hi there 👋, I am a motivated full-stack web developer formerly from the elect
       />
       <br /><strong>NextAuth</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdnlogo.com/logos/t/58/tailwind-css.svg"
+        width="48"
+        height="48"
+        alt="Tailwind CSS"
+      />
+      <br /><strong>Tailwind CSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.cdnlogo.com/logos/m/65/material-ui.svg"
+        width="48"
+        height="48"
+        alt="Material UI"
+      />
+      <br /><strong>Material UI</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.cdnlogo.com/logos/b/74/bootstrap-5.svg"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br /><strong>Bootstrap</strong>
+    </td>
   </tr>
 
   <tr>
     <td>Databases</td>
-     <!-- <td align="center" height="108" width="108">
+     <td align="center" height="108" width="108">
       <img
         src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
         width="48"
@@ -217,7 +244,16 @@ Hi there 👋, I am a motivated full-stack web developer formerly from the elect
         alt="FIREBASE"
       />
       <br /><strong>Firebase</strong>
-    </td> -->
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://www.cdnlogo.com/logos/a/19/aws.svg"
+        width="48"
+        height="48"
+        alt="AWS"
+      />
+      <br /><strong>AWS</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -324,6 +360,15 @@ Hi there 👋, I am a motivated full-stack web developer formerly from the elect
         alt="LINUX"
       />
       <br /><strong>Linux</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.cdnlogo.com/logos/v/78/vercel.svg"
+        width="48"
+        height="48"
+        alt="Vercel"
+      />
+      <br /><strong>Vercel</strong>
     </td>
   </tr>
 
