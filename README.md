@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 
 Hi there 👋, I am a motivated full-stack web developer formerly from the electronics hardware industry. I am passionate about learning and creating high-quality web applications from the front-end to the back-end. I enjoy creating intuitive products that are both reliable and have a beautiful interface.
 
-- 👀 I’m interested in ... Web Development, IOT, and Electronics
-- 🔭 I’m currently working on ... React Native Project
-- 🌱 I’m currently learning ... React Native
-
 # Technologies and Skills
 
 <table>
