@@ -1,4 +1,4 @@
-<h1 align="center">Kurt Maglalang</h1>
+<!-- <h1 align="center">Kurt Maglalang</h1>
 
 # Technologies and Skills
 
@@ -250,7 +250,7 @@
         />
         <br /><strong>PostgreSQL</strong>
       </td>
-      <!-- <td align="center" height="108" width="108">
+      <td align="center" height="108" width="108">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
           width="48"
@@ -258,7 +258,7 @@
           alt="MYSQL"
         />
         <br /><strong>mySQL</strong>
-      </td>      -->
+      </td>     
   </tr>
 
   <tr>
@@ -362,4 +362,4 @@
       <br /><strong>Visual Studio Code</strong>
     </td>
   </tr>
-</table>
+</table> -->
